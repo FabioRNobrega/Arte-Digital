@@ -16,15 +16,15 @@ COPILANDO:
 
 1. Instalar o OpenGL e o GLUT (esse método é para os derivados do Debian): 
 
-  //sudo apt-get install freeglut3-dev 
+  $ sudo apt-get install freeglut3-dev 
  
 2- Em seguida copilar o arguivo arte.c? 
  
- //gcc arte.c -o arte -lglut -lGL -lGLU -lm 
+  $ gcc arte.c -o arte -lglut -lGL -lGLU -lm 
  
 3- Para roda o programa sertifiquice que a imagem .bmp esta na mesma pasta que o arquivo.c:
  
-  //./arte 
+   $ ./arte 
 
 CONTROLES: 
  
