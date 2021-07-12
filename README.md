@@ -12,7 +12,7 @@ Segundo Perrie Lévy "A Imagem perde sua exterioridade de espetáculo para abrir
 
 ### COPILANDO: 
 
-- É necessário copilar o arquivo.c usando OpenGL 1.0 Usando o Linux (Ubuntu/debian ou semelhante) pelo terminal]
+- É necessário copilar o arquivo.c usando OpenGL 1.0. Usando o Linux (Ubuntu/debian ou semelhante) pelo terminal.
 
 - Instalar o OpenGL e o GLUT (esse método é para os derivados do Debian): 
 
@@ -21,16 +21,16 @@ Segundo Perrie Lévy "A Imagem perde sua exterioridade de espetáculo para abrir
   ```
 - Em seguida copilar o arguivo arte.c? 
  
- ```bash
+  ```bash
   $ gcc arte.c -o arte -lglut -lGL -lGLU -lm 
- ```
+  ```
 - Para roda o programa sertifiquice que a imagem .bmp esta na mesma pasta que o arquivo.c:
- 
+
   ```bash
    $ ./arte 
   ```
 
-## CONTROLES: 
+### CONTROLES: 
  
  TAB - ALMENTA VELOCIDADE 
  SPACE - PARA 
@@ -38,7 +38,7 @@ Segundo Perrie Lévy "A Imagem perde sua exterioridade de espetáculo para abrir
  
  > OBS: PARA RETIRAR EFEITO GLITCH ( QUE ATIVA O VISUAL DE ESTRELA) RETIRE O COMENTÁRIO DA LINHA 98: 
   
-  ```c
+  ```
   //glClear(GL_COLOR_BUFFER_BIT); 
   ```
     
