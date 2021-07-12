@@ -10,7 +10,7 @@ Segundo Perrie Lévy "A Imagem perde sua exterioridade de espetáculo para abrir
 
 ## MODO DE USO: 
 
-### COPILANDO: 
+### COMPILANDO: 
 
 - É necessário copilar o arquivo.c usando OpenGL 1.0. Usando o Linux (Ubuntu/debian ou semelhante) pelo terminal.
 
@@ -19,12 +19,12 @@ Segundo Perrie Lévy "A Imagem perde sua exterioridade de espetáculo para abrir
   ```bash
   $ sudo apt-get install freeglut3-dev 
   ```
-- Em seguida copilar o arguivo arte.c? 
+- Em seguida copilar o arguivo arte.c
  
   ```bash
   $ gcc arte.c -o arte -lglut -lGL -lGLU -lm 
   ```
-- Para roda o programa sertifiquice que a imagem .bmp esta na mesma pasta que o arquivo.c:
+- Para rodar o programa certifiquese que a imagem .bmp esta na mesma pasta que o arquivo.c:
 
   ```bash
    $ ./arte 
