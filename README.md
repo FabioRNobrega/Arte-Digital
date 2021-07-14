@@ -8,6 +8,8 @@ Dentro desse programa a imagem conforme aumenta o numero de reproduções / visu
 
 Segundo Perrie Lévy "A Imagem perde sua exterioridade de espetáculo para abrir-se à imersão. A representação é substituída pela visualização interativa de um modelo" (Cibercultura), fato este, que se aplica de forma prática e interativa na obra The Journey Unseen, sem duvida um data arte que merece um olhar mas apurado e uma analise mas profunda futuramente. 
 
+![Imgem de exemplo](https://raw.githubusercontent.com/FabioRNobrega/The-Journey-Unssen/master/the-journey-unseen-pictures.png)
+
 ## MODO DE USO: 
 
 ### COMPILANDO: 
