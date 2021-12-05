@@ -1,4 +1,4 @@
-# The Journey Unssen | A Jornada não Observada
+# The Journey Unseen | A Jornada não Observada
 
 A reprodutibilidade da imagem na era digital se torna um objeto de estudo para mim, que busco assim refletir os princípios da gravura clássica neste novo meio. Mostrando com esta obra, um  processo de visualização da primeira imagem transmitida  na World Wide Web  por Tim Berners-Lee. A partir desta primícia o artista cria um programa em linguagem de programação C  rodando bibliotecas do OpenGL 1.0 gerando um sistema de visualização de dados interativos. 
 
